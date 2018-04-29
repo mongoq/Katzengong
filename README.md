@@ -1,5 +1,5 @@
 # Katzengong
-Auslesen von Katzen RFID Chip + Akustische Benachrichtigung über Katzenpräsenz
+Auslesen von Katzen RFID Chip + Akustische Benachrichtigung über Katzenpräsenz vor der Wohnungstür
 
 Materialsammlung:
 * http://www.priority1design.com.au/fdx-b_animal_identification_protocol.html
