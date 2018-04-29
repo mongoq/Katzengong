@@ -7,3 +7,8 @@ Materialsammlung:
 
 Messung:
 * <0x02>4BB6FD56007E30010000000000s<0x8c><0x03> <-- Beispieltag mitgeliefert
+
+Bild:
+
+![Cat RFID Reader](https://ae01.alicdn.com/kf/HTB1SkjvhEl7MKJjSZFDq6yOEpXaX.jpg)
+
