@@ -1,5 +1,5 @@
 # Katzengong
-Auslesen von Katzen RFID Chip (13,56 MHz) + Akustische Benachrichtigung über Katzenpräsenz vor der Wohnungstür
+Auslesen von Katzen RFID Chip (134,2 KHz) + Akustische Benachrichtigung über Katzenpräsenz vor der Wohnungstür
 
 Materialsammlung:
 * http://www.priority1design.com.au/fdx-b_animal_identification_protocol.html
